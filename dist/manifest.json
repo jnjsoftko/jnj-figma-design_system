@@ -1,0 +1,17 @@
+{
+  "name": "jnj-figma-design_system",
+  "id": "187471580643793601",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "index.html",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "development"
+  }
+}

@@ -1,0 +1,15 @@
+/node_modules/
+
+dist/*
+!dist/manifest.json
+
+src/build
+.DS_Store
+
+# For Dev
+.env
+_*/
+*.md
+
+# Secrets
+# .env

@@ -1,0 +1,12 @@
+{
+  "proxy": {
+    "url": "http://localhost:3000",
+    "path": "C:/JnJ-soft/Developments/Servers/Rest/Node_REST/proxy",
+    "run": "node server.js"
+  },
+  "gql": {
+    "url": "http://localhost:4000",
+    "path": "C:/JnJ-soft/Developments/Servers/Graphql",
+    "run": "node server.js"
+  }
+}

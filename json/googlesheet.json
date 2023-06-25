@@ -1,0 +1,9 @@
+{
+  "colorStyles": {
+    "tailwind": {
+      "spreadsheetId": "1LTKQT9bXpl62KZEwYyhXHjpJbpKD1WEkskN7_JzQCKY",
+      "sheetName": "tailwind",
+      "query": "Select B, C, D"
+    }
+  }
+}
